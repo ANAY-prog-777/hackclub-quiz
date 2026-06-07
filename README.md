@@ -17,3 +17,4 @@ How to play
 If you want to try it out, you can download the .exe directly from the Releases section. Just double-click it, and you're good to go......
 
 
+SCREENSHOT 1 - Screenshot 2026-06-07 232844.png
