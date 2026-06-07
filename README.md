@@ -34,8 +34,13 @@ If you want to try it out, you can download the .exe directly from the Releases 
 
 ### Project Preview
 
+GAMEPLAY :----
+
 ![Gameplay](https://raw.githubusercontent.com/ANAY-prog-777/hackclub-quiz/main/Screenshot%202026-06-07%20232844.png)
 
+QUESTIONS AND ANSWER 101:---
 ![Question View](https://raw.githubusercontent.com/ANAY-prog-777/hackclub-quiz/main/Screenshot%202026-06-07%20233112.png)
+
+FINAL REVIEW :----
 
 ![Final Review](https://raw.githubusercontent.com/ANAY-prog-777/hackclub-quiz/main/Screenshot%202026-06-07%20233847.png)
