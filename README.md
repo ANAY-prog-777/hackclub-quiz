@@ -18,3 +18,4 @@ If you want to try it out, you can download the .exe directly from the Releases 
 
 
 SCREENSHOT 1 - Screenshot 2026-06-07 232844.png
+SCREEN SHOT 2 - Screenshot 2026-06-07 233112.png
