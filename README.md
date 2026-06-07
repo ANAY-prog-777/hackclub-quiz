@@ -19,4 +19,4 @@ If you want to try it out, you can download the .exe directly from the Releases 
 
 SCREENSHOT 1 - https://github.com/ANAY-prog-777/hackclub-quiz/blob/main/Screenshot%202026-06-07%20232844.png
 
-SCREEN SHOT 2 - Screenshot 2026-06-07 233112.png
+SCREEN SHOT 2 - https://github.com/ANAY-prog-777/hackclub-quiz/blob/main/Screenshot%202026-06-07%20233112.png
